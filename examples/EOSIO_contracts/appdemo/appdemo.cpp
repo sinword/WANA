@@ -1,7 +1,7 @@
 /* appdemo.cpp
 *  Jack DiSalvatore
 */
-#include <appdemo.hpp>
+#include "appdemo.hpp"
 
 void appdemo::hello(account_name account) {
     print("Hello ", name{account});

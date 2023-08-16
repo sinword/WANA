@@ -1,8 +1,8 @@
 /* appdemo.hpp
 *  Jack DiSalvatore
 */
-#include <eosiolib/eosio.hpp>
-#include <eosiolib/print.hpp>
+#include "eosiolib/eosio.hpp"
+#include "eosiolib/print.hpp"
 
 #include <string>
 
